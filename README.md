@@ -17,6 +17,7 @@ The CS50 lectures are as follows:
 10. Watch Week 9's lecture on the rest. Submit Problem Set 9.
 11. Submit the Final Project.
 
+## Lecture progress 
 
 | Lecture                      | Status     |
 | ---------------------------- | -----------|
