@@ -21,7 +21,7 @@ The CS50 lectures are as follows:
 | Lecture                      | Status     |
 | ---------------------------- | -----------|
 | Introduction                 | Completed  |
-| Functions, Variables         | Incomplete |
+| Functions, Variables         | Completed  |
 | Conditionals                 | Incomplete |
 | Exceptions                   | Incomplete |
 | Libraries                    | Incomplete |
